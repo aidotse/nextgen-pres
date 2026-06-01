@@ -1,8 +1,6 @@
 # Next-Generation Infrastructure for Foundation Models
 **A Framework for Decentralized Learning on Heterogeneous Compute**
 
-View the presentation [here](https://pages.mgmt.ai.se/nextgen-pres-9895d0/#/title-slide).
-
 This repository contains the source code and assets for the presentation slide deck. The presentation is built using [Quarto](https://quarto.org/) and rendered via Reveal.js.
 
 ## 🛠️ Prerequisites
